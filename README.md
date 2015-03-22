@@ -24,8 +24,9 @@ Basic Wireframe
 
 [User Stories](user-stories.md)
 ===============
+> Please see [User Stories](user-stories.md) for a detailed plan of action!
 
-> Possible Product Name:
+Possible Product Name:
 ----------------------
 > Arawen
 > Celtic King of Hell, God of Annwn.  Ruled the underground kingdom of the dead.  Best known for strengthening friendships, reincarnation.
