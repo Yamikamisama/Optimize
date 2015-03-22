@@ -1,14 +1,7 @@
 ARAWEN (OPTIMIZE ME) [Working Title]
 ====================================
 
-Possible Product Name:
-----------------------
-Arawen
-
->Celtic King of Hell, God of Annwn.  Ruled the underground kingdom of the dead.  Best known for strengthening friendships, reincarnation.
-> Other spellings: Arawn, Arrawn, Arawen, Arawyn.
-
-<p>Meet [Arawyn], your companion towards achieving your next goal!  [Arawyn] was designed with your specific needs in mind.  Simply pick a task you wish to focus on and your preferred study duration.  Thats it, it really is that simple.  [Arawyn] will remind you to take your breaks by suggesting non-topic related material to watch, play, or do!</p>
+> Meet [Arawyn], your companion towards achieving your next goal!  [Arawyn] was designed with your specific needs in mind.  Simply pick a task you wish to focus on and your preferred study duration.  Thats it, it really is that simple.  [Arawyn] will remind you to take your breaks by suggesting non-topic related material to watch, play, or do!
 
 Let's Talk About that Stack!
 ============================
@@ -25,5 +18,15 @@ Let's Talk About that Stack!
 * [Cordova](http://cordova.apache.org/)
 * RESTful and CRUD conventions will be respected.
 
-##Basic Wireframe
+Basic Wireframe
+===============
 ![wireframe](optimize.png)
+
+![User Stories](user-stories.md)
+===============
+
+> Possible Product Name:
+----------------------
+> Arawen
+> Celtic King of Hell, God of Annwn.  Ruled the underground kingdom of the dead.  Best known for strengthening friendships, reincarnation.
+> Other spellings: Arawn, Arrawn, Arawen, Arawyn.
