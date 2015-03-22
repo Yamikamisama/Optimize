@@ -1,4 +1,4 @@
-ARAWEN (OPTIMIZE ME) [Working Title]
+Arawen (Optimize Me) [Working Title]
 ====================================
 
 > Meet [Arawyn], your companion towards achieving your next goal!  [Arawyn] was designed with your specific needs in mind.  Simply pick a task you wish to focus on and your preferred study duration.  Thats it, it really is that simple.  [Arawyn] will remind you to take your breaks by suggesting non-topic related material to watch, play, or do!
