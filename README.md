@@ -22,7 +22,7 @@ Basic Wireframe
 ===============
 ![wireframe](optimize.png)
 
-![User Stories](user-stories.md)
+[User Stories](user-stories.md)
 ===============
 
 > Possible Product Name:
